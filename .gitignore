@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+*.wav
+*.mp4
+*.mp3
+*.zip
+*.tar.gz
+*.pkl
+*.joblib
+*.h5
+*.log
+.DS_Store
+.idea/
+*.ipynb_checkpoints
