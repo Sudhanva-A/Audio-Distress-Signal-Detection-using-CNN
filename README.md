@@ -20,4 +20,5 @@ A deep learning-based system to detect human distress signals like "Help", "Amma
 
 ## How to Run
 ```bash
-python real_time_classifier.py
+python upd.py #Run the CNN model and save it
+python Real-time-cnn.py #Real time audio input
